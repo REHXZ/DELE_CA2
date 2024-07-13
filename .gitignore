@@ -1,6 +1,7 @@
 emnist-letters-train.csv
 generated_mnist
-CGAN_mnist
-generated_mnist_CGAN
-generated_mnist_CGAN_3
-generated_mnist_CGAN_2
+CGAN_1
+CGAN_4
+CGAN_3
+CGAN_2
+ACGAN_mnist
